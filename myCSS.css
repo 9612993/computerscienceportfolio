@@ -1,8 +1,8 @@
 @charset "UTF-8";
 /* This is a comment! Text here will be ignored by the browser. */
 body {
-     font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
-     background-color: #FFFFFF;
+     font: 100%/1.4 American Typewriter, serif;
+     background-color: #99BF71;
      margin: 0;
      padding: 0;
      color: #000;
@@ -18,14 +18,14 @@ a:hover, a:active, a:focus {
      text-decoration: underline;
 }
 .homePage {
-	background: #222222;
+	background: #99BF71;
 }
 .container {
 	width: 960px;
 	margin: 0 auto;
 }
 .header {
-	background: #AAAAAA;
+	background: #89602D;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -35,7 +35,7 @@ a:hover, a:active, a:focus {
 	
 }
 .nav {
-	background: #BBBBBB;
+	background: #89602D;
 	margin: 0px;
 	padding: 5;
 	float: left;
@@ -44,7 +44,7 @@ a:hover, a:active, a:focus {
 	text-align: center;
 }
 .content {
-	background: #EEEEEE;
+	background: #808080;
 	margin: 0px;
 	padding:5;
 	float: left;
@@ -52,7 +52,7 @@ a:hover, a:active, a:focus {
 	text-align: left;
 }
 .footer {
-	background: #777777;
+	background: #000000;
 	margin: 0px;
 	float: left;
 	width: 100%;
